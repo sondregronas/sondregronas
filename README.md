@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Kubernetes, Docker, Azure, Blender, Nocodb, Ansible, Unity, Unreal**
 
-- 📝 I regularly write articles on [https://sondregronas.com](https://sondregronas.com)
+- 📝 I regularly write articles on [:computer::clapper:.ws](https://💻🎬.ws)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
